@@ -1,15 +1,15 @@
 {
-	"Token": "ur token",
+	"Token": "OTExODcyNzYyOTI1MTgyOTc5.YZnueA.YRhiB_1fyokrtlXh8UeZoSYrQaY",
 	"Prefix": ">",
 
-	"Channel-Names": ["lerker was here"], 
-	"Server-Names": ["beamed by lerker"],
+	"Channel-Names": ["Neear on top"], 
+	"Server-Names": ["fucked by discord.gg/rntop"],
 	"Role-Names": ["@lerkerbeamedyou"],
-	"Reason": ["beamed by lerker", "lerker beamed me"],
+	"Reason": ["beamed by Neear", "Neead beamed me"],
 
 	"Spam": true,
 
-	"Webhook-Names": ["@lerkerbeamedyou", "get beamed by lerker retard"],
-	"Spam-Messages": ["@everyone LERKER WIZZED YOU", "@everyone LERKER  FUCKED YOUR SERVER"],
+	"Webhook-Names": ["wizzzed by Neear", "Fucked by discord.gg/Rntop"],
+	"Spam-Messages": ["@everyone Neear WIZZED YOU", "@everyone https://discord.gg/rntop FUCKED YOUR SERVER"],
 	"Spam-Amount": 10000
 }
